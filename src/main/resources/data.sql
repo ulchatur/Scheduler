@@ -1,0 +1,1 @@
+insert into EMPLOYEE values ('12','abc','def');
